@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheena Villawarayen</h1>
 <h3 align="center">A passionate and performance-driven Software Developer from Sri Lanka.</h3>
 
-- 🌱 I’m an final year undergrduate at **University of Bedfordshire**
+- 🌱 I’m an final year undergraduate at **University of Bedfordshire**
 
 - 📫 How to reach me **sheenavillawarayen@gmail.com**
 
