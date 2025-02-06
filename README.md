@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheena Villawarayen</h1>
 <h3 align="center">A passionate and performance-driven Software Developer from Sri Lanka.</h3>
 
-- 🌱 I’m a recent software-engineering graduate from **University of Bedfordshire**
+- 🌱 I’m a full-stack developer with over 3 years of experience
 
 - 📫 How to reach me **sheenavillawarayen@gmail.com**
 
